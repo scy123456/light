@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Summarize</string>
+    <string name="input_word">请输入单词</string>
+    <string name="input_sentance">请输入例句</string>
+    <string name="et_input_word">请输入想要高亮标注的单词</string>
+    <string name="et_input_sentance">请输入想要高亮标注的句子</string>
+    <string name="light_words">高亮后的句子：</string>
+    <string name="question_1"> 一个整数，它加上100后是一个完全平方数，再加上168又是一个完全平方数，请问该数是多少？</string>
+
+</resources>
